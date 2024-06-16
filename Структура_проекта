@@ -1,0 +1,20 @@
+HnN_bot/
+│
+├── main.py
+├── config.py
+├── handlers/
+│   ├── __init__.py
+│   ├── brand_handler.py
+│   ├── sku_handler.py
+│   ├── date_handler.py
+│   ├── common.py
+│
+├── data/
+│   ├── ozon_data.xlsx
+│   ├── samokat_data.xlsx
+│   ├── vprok_data.xlsx
+│
+└── utils/
+    ├── __init__.py
+    ├── data_loader.py
+    ├── callback_data.py
